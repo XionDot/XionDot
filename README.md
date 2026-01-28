@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Threat Hunting Scripts Using, Python<br><br>🌱 I’m currently learning Threat Intelligence & Threat Hunting<br><br>
+🔭 I’m currently working on Counter Surveliance OSINT Tools<br><br>🌱 I’m currently learning Threat Intelligence & Threat Hunting<br><br>
 
 
 # 💻 Tech Stack:
