@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Counter Surveliance Privacy-First Tools<br><br>🌱 I’m currently learning Threat Intelligence & Threat Hunting<br><br>
+🔭 Lowkey Burnt Out<br><br>🌱 I’m currently trying fry my brain on AI<br><br>
 
 
 # 💻 Tech Stack:
