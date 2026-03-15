@@ -9,7 +9,7 @@
 **👾 about me**
 
 builder of things that probably shouldn't exist.
-creator of **[privatiser.net](https://privatiser.net)** — and currently deep in the weeds building a **bee-style AI god swarm engine** 🐝
+creator of **[privatiser.net](https://privatiser.net)** — and currently deep in the weeds building **[feralbee](https://github.com/XionDot)**, a bee-style AI god swarm engine 🐝
 (yes, that's a real thing. no, i won't explain it briefly.)
 
 ---
