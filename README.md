@@ -1,9 +1,9 @@
 
 ```
 +-------------------------------------------+
-|                                             |
-|   >> X I O N D O T   S Y S T E M S <<      |
-|                                             |
+|                                           |
+|   >> X I O N D O T   S Y S T E M S <<     |
+|                                           |
 +-------------------------------------------+
   .:: booting personality.exe ::.
   [ok]  green tea dependency loaded
